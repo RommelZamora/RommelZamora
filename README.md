@@ -21,3 +21,4 @@ proyectos y mis intereses.
 * Ver peliculas
 * Dormir
 * Graduarme
+* Tecnologia
