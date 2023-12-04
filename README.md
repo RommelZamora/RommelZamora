@@ -12,10 +12,11 @@ proyectos y mis intereses.
 * Nombre: Rommel Zamora Wong
 * Ocupación: Estudiante de Ingenieria en Computacion
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: [Tu sitio web]
+* [Sitio web](https://rommelzamora.github.io/RommelZamora/)
 
 ## Proyectos
-* [Lista de tus proyectos]
+* [Creacion de una landing page](https://rommelzamora.github.io/landing/)
+* [Procesamiento de datos de clima](https://rommelzamora.github.io/dashboard/)
 
 ## Intereses
 * Ver peliculas
